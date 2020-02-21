@@ -1,3 +1,4 @@
+---
 title: Digital Music Research Network 2019
 link: http://davemoffat.com/wp/index.php/2019/12/20/digital-music-research-network-2019/
 author: admin
@@ -9,7 +10,7 @@ comment_status: open
 post_name: digital-music-research-network-2019
 status: publish
 post_type: post
-
+---
 # Digital Music Research Network 2019
 
 DMRN this year, was once again hosted at Queen Mary. Their annual workshop on digital music research. This year, I attended, representing University of Plymouth, my new employer. We presented a poster on RadioMe, the new research project.
