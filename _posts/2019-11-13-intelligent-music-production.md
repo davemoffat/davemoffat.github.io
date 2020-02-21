@@ -1,3 +1,4 @@
+---
 title: Intelligent Music Mixing
 link: http://davemoffat.com/wp/index.php/2019/11/13/intelligent-music-production/
 author: admin
@@ -9,6 +10,7 @@ comment_status: open
 post_name: intelligent-music-production
 status: publish
 post_type: post
+---
 
 # Intelligent Music Mixing
 

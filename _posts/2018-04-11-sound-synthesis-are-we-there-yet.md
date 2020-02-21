@@ -1,3 +1,4 @@
+---
 title: Sound Synthesis - Are we there yet?
 link: http://davemoffat.com/wp/index.php/2018/04/11/sound-synthesis-are-we-there-yet/
 author: admin
@@ -9,6 +10,7 @@ comment_status: open
 post_name: sound-synthesis-are-we-there-yet
 status: publish
 post_type: post
+---
 
 # Sound Synthesis - Are we there yet?
 

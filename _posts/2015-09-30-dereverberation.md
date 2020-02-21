@@ -1,3 +1,4 @@
+---
 title: Dereverberation
 link: http://davemoffat.com/wp/index.php/2015/09/30/dereverberation/
 author: admin
@@ -9,6 +10,7 @@ comment_status: open
 post_name: dereverberation
 status: publish
 post_type: post
+---
 
 # Dereverberation
 
@@ -20,4 +22,4 @@ Research at Queen Mary University allows this interference to be reduced in real
 
 This work will be published at the AES conference on DREAMS (Dereverberation and Reverberation of Audio Music and Speech).
 
-[David Moffat](http://www.davemoffat.com/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/index.htm). "Dereverberation and its application to the blind source separation problem". In Proc. Audio Engineering Society Conference: 60th International Conference: DREAMS (Dereverberation and Reverberation of Audio, Music, and Speech). Audio Engineering Society, 2016. _to appear_.
+[David Moffat](http://www.davemoffat.com/) and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/index.htm). "Dereverberation and its application to the blind source separation problem". In Proc. Audio Engineering Society Conference: 60th International Conference: DREAMS (Dereverberation and Reverberation of Audio, Music, and Speech). Audio Engineering Society, 2016.

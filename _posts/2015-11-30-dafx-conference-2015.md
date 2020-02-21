@@ -1,3 +1,4 @@
+---
 title: DAFx Conference 2015
 link: http://davemoffat.com/wp/index.php/2015/11/30/dafx-conference-2015/
 author: admin
@@ -9,6 +10,7 @@ comment_status: open
 post_name: dafx-conference-2015
 status: publish
 post_type: post
+---
 
 # DAFx Conference 2015
 

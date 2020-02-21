@@ -1,3 +1,4 @@
+---
 title: Digital Audio Effects Conference 2018 (DAFx18)
 link: http://davemoffat.com/wp/index.php/2018/10/27/digital-audio-effects-conference-2018-dafx18/
 author: admin
@@ -9,6 +10,7 @@ comment_status: open
 post_name: digital-audio-effects-conference-2018-dafx18
 status: publish
 post_type: post
+---
 
 # Digital Audio Effects Conference 2018 (DAFx18)
 

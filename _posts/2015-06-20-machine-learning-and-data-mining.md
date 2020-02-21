@@ -1,3 +1,4 @@
+---
 title: Machine Learning and Data Mining
 link: http://davemoffat.com/wp/index.php/2015/06/20/machine-learning-and-data-mining/
 author: admin
@@ -9,6 +10,7 @@ comment_status: open
 post_name: machine-learning-and-data-mining
 status: publish
 post_type: post
+---
 
 # Machine Learning and Data Mining
 

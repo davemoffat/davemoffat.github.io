@@ -1,3 +1,4 @@
+---
 title: AES-Warsaw
 link: http://davemoffat.com/wp/index.php/2015/05/12/aes-warsaw/
 author: admin
@@ -9,7 +10,7 @@ comment_status: open
 post_name: aes-warsaw
 status: publish
 post_type: post
-
+---
 # AES-Warsaw
 
 I have spent the past five days at the Audio Engineering Society convention in Warsaw, where I stood to become vice chair of the [AES Student Delegate Assembly](http://www.aes.org/students/sda/) for European and International Regions.

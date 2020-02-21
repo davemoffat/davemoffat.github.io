@@ -1,3 +1,4 @@
+---
 title: The 139th Convention of the Audio Engineering Society in New York City
 link: http://davemoffat.com/wp/index.php/2015/11/05/the-139th-convention-of-the-audio-engineering-society-in-new-york-city/
 author: admin
@@ -9,6 +10,7 @@ comment_status: open
 post_name: the-139th-convention-of-the-audio-engineering-society-in-new-york-city
 status: publish
 post_type: post
+---
 
 # The 139th Convention of the Audio Engineering Society in New York City
 

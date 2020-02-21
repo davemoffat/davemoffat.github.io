@@ -1,3 +1,4 @@
+---
 title: Sound Effects Taxonomy
 link: http://davemoffat.com/wp/index.php/2017/08/07/a-taxonomy-for-sound-effects/
 author: admin
@@ -9,6 +10,7 @@ comment_status: open
 post_name: a-taxonomy-for-sound-effects
 status: publish
 post_type: post
+---
 
 # Sound Effects Taxonomy
 

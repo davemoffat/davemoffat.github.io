@@ -1,3 +1,4 @@
+---
 title: Upcoming Events
 link: http://davemoffat.com/wp/index.php/2015/08/26/upcoming-events/
 author: admin
@@ -9,6 +10,7 @@ comment_status: open
 post_name: upcoming-events
 status: publish
 post_type: post
+---
 
 # Upcoming Events
 

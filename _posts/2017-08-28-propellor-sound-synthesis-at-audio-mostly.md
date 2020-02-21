@@ -1,3 +1,4 @@
+---
 title: Propellor Sound Synthesis at Audio Mostly
 link: http://davemoffat.com/wp/index.php/2017/08/28/propellor-sound-synthesis-at-audio-mostly/
 author: admin
@@ -9,6 +10,7 @@ comment_status: open
 post_name: propellor-sound-synthesis-at-audio-mostly
 status: publish
 post_type: post
+---
 
 # Propellor Sound Synthesis at Audio Mostly
 

@@ -1,3 +1,4 @@
+---
 title: AES Presentation on Owl Guitar Pedal
 link: http://davemoffat.com/wp/index.php/2015/10/13/aes-presentation-on-owl-guitar-pedal/
 author: admin
@@ -9,6 +10,7 @@ comment_status: open
 post_name: aes-presentation-on-owl-guitar-pedal
 status: publish
 post_type: post
+---
 
 # AES Presentation on Owl Guitar Pedal
 

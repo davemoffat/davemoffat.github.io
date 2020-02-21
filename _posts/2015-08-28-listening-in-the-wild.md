@@ -1,3 +1,4 @@
+---
 title: Listening In The Wild
 link: http://davemoffat.com/wp/index.php/2015/08/28/listening-in-the-wild/
 author: admin
@@ -9,6 +10,7 @@ comment_status: open
 post_name: listening-in-the-wild
 status: publish
 post_type: post
+---
 
 # Listening In The Wild
 

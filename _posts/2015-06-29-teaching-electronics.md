@@ -1,3 +1,4 @@
+---
 title: Teaching Electronics
 link: http://davemoffat.com/wp/index.php/2015/06/29/teaching-electronics/
 author: admin
@@ -9,6 +10,7 @@ comment_status: open
 post_name: teaching-electronics
 status: publish
 post_type: post
+---
 
 # Teaching Electronics
 

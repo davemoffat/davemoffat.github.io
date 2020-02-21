@@ -1,3 +1,4 @@
+---
 title: Next Generation Sound Synthesis
 link: http://davemoffat.com/wp/index.php/2015/05/15/next-generation-sound-synthesis/
 author: admin
@@ -9,7 +10,7 @@ comment_status: open
 post_name: next-generation-sound-synthesis
 status: publish
 post_type: post
-
+---
 # Next Generation Sound Synthesis
 
 Yesterday I attended an AES presentation on the [NESS Project ](http://ness-music.eu/)by Stefan Bilbao. The NESS project is the "Next Generation Sound Synthesis" project, as a 5 year European Research Funded project, undertaken by University of Edinburgh.

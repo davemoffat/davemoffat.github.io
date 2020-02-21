@@ -1,3 +1,4 @@
+---
 title: AES Workshop on Intelligent Music Production
 link: http://davemoffat.com/wp/index.php/2015/09/01/aes-workshop-on-intelligent-music-production/
 author: admin
@@ -9,6 +10,7 @@ comment_status: open
 post_name: aes-workshop-on-intelligent-music-production
 status: publish
 post_type: post
+---
 
 # AES Workshop on Intelligent Music Production
 

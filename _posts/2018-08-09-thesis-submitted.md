@@ -1,3 +1,4 @@
+---
 title: Thesis Submitted
 link: http://davemoffat.com/wp/index.php/2018/08/09/thesis-submitted/
 author: admin
@@ -9,6 +10,7 @@ comment_status: open
 post_name: thesis-submitted
 status: publish
 post_type: post
+---
 
 # Thesis Submitted
 

@@ -1,3 +1,4 @@
+---
 title: 360 Degree Sound Experience - Warsnare at the Albany
 link: http://davemoffat.com/wp/index.php/2017/11/26/360-degree-sound-experience-warsnare-at-the-albany/
 author: admin
@@ -9,6 +10,7 @@ comment_status: open
 post_name: 360-degree-sound-experience-warsnare-at-the-albany
 status: publish
 post_type: post
+---
 
 # 360 Degree Sound Experience - Warsnare at the Albany
 

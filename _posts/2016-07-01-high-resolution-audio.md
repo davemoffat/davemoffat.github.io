@@ -1,3 +1,4 @@
+---
 title: High Resolution Audio
 link: http://davemoffat.com/wp/index.php/2016/07/01/high-resolution-audio/
 author: admin
@@ -9,6 +10,7 @@ comment_status: open
 post_name: high-resolution-audio
 status: publish
 post_type: post
+---
 
 # High Resolution Audio
 

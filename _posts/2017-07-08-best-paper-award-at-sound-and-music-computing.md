@@ -1,3 +1,4 @@
+---
 title: Best Paper Award at Sound and Music Computing
 link: http://davemoffat.com/wp/index.php/2017/07/08/best-paper-award-at-sound-and-music-computing/
 author: admin
@@ -9,6 +10,7 @@ comment_status: open
 post_name: best-paper-award-at-sound-and-music-computing
 status: publish
 post_type: post
+---
 
 # Best Paper Award at Sound and Music Computing
 

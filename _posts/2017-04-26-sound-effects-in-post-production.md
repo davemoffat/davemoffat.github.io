@@ -1,3 +1,4 @@
+---
 title: Sound Effects in Post Production
 link: http://davemoffat.com/wp/index.php/2017/04/26/sound-effects-in-post-production/
 author: admin
@@ -9,6 +10,7 @@ comment_status: open
 post_name: sound-effects-in-post-production
 status: publish
 post_type: post
+---
 
 # Sound Effects in Post Production
 

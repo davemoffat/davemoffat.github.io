@@ -1,3 +1,4 @@
+---
 title: AES 145th Convention
 link: http://davemoffat.com/wp/index.php/2018/11/10/aes-145th-convention/
 author: admin
@@ -9,6 +10,7 @@ comment_status: open
 post_name: aes-145th-convention
 status: publish
 post_type: post
+---
 
 # AES 145th Convention
 

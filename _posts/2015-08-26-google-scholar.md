@@ -1,3 +1,4 @@
+---
 title: Google Scholar
 link: http://davemoffat.com/wp/index.php/2015/08/26/google-scholar/
 author: admin
@@ -9,6 +10,7 @@ comment_status: open
 post_name: google-scholar
 status: publish
 post_type: post
+---
 
 # Google Scholar
 

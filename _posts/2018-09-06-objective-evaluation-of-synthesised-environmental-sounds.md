@@ -1,3 +1,4 @@
+---
 title: Objective Evaluation of Synthesised Environmental Sounds
 link: http://davemoffat.com/wp/index.php/2018/09/06/objective-evaluation-of-synthesised-environmental-sounds/
 author: admin
@@ -9,6 +10,7 @@ comment_status: open
 post_name: objective-evaluation-of-synthesised-environmental-sounds
 status: publish
 post_type: post
+---
 
 # Objective Evaluation of Synthesised Environmental Sounds
 
