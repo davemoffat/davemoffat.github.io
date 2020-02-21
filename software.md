@@ -16,7 +16,7 @@ This is the page where I will present a series of software I have worked on and 
 * [Time Domain Probabilistic Concatenative Synthesis](https://code.soundsoftware.ac.uk/projects/time-domain-probabilistic-concatenative-synthesis)
 * [Web Audio Evaluation Tool](https://code.soundsoftware.ac.uk/projects/webaudioevaluationtool)
 * [Unsupervised Clustering of Sound Effects](https://goo.gl/9aWhTX)
-* [Modal Synthesis of Weapon Sounds](https://code.soundsoftware.ac.uk/projects/modal-synthesis-of-weapon-sounds")
+* [Modal Synthesis of Weapon Sounds](https://code.soundsoftware.ac.uk/projects/modal-synthesis-of-weapon-sounds)
 * [Perceptually Motivated Analysis-Synthesis](https://github.com/djmoffat/SynthesisAnalysis)
 
 [.](http://webprojects.eecs.qmul.ac.uk/djm31/DLM/test.html?url=tests/AM.xml)
