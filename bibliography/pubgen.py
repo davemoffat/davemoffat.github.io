@@ -44,16 +44,16 @@ def format_authors(names):
         return('., '.join(name_list[:-1]) + '. and ' + name_list[-1])
 
 def return_journal(bib, author):
-    return '{} ({}). {}. _{}_.'.format(author, bib['year'], bib['title'], bib['journal'])
+    return '* {} ({}). {}. _{}_.'.format(author, bib['year'], bib['title'], bib['journal'])
 
 def return_bookchapter(bib, author):
-    return '{} ({}). {}. {} Editor. _In {}_. {}'.format(author, bib['year'], bib['title'], bib['editor'], bib['booktitle'], bib['publisher'])
+    return '* {} ({}). {}. {} Editor. _In {}_. {}'.format(author, bib['year'], bib['title'], bib['editor'], bib['booktitle'], bib['publisher'])
 
 def return_conference(bib, author):
-    return '{} ({}). _{}_. {}.'.format(author, bib['year'], bib['title'], bib['booktitle'])
+    return '* {} ({}). _{}_. {}.'.format(author, bib['year'], bib['title'], bib['booktitle'])
 
 def return_patent(bib, author):
-    return '{} ({}). _{}_. {}.'.format(author, bib['year'], bib['title'], bib['howpublished'])
+    return '* {} ({}). _{}_. {}.'.format(author, bib['year'], bib['title'], bib['howpublished'])
 
 def add_links(bib):
     # Links to print
