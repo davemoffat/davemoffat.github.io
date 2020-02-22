@@ -6,6 +6,7 @@ subtitle: A number of software projects I have worked on
 
 This is the page where I will present a series of software I have worked on and links to.
 * [MassCatering - Assistant to calculate menu and food ordering for large groups of people](https://github.com/chrisfleming/MassCatering)
+* [PaperBib - A small python script that creates a minimal bib files, based on all required references in tex file](https://github.com/djmoffat/paper-bib)
 * [Python Local Requests module for web scraping](https://github.com/djmoffat/localRequest)
 * [Pretty Matlab Histograms and Graphs](https://github.com/djmoffat/MatlabPlotForAESPaper)
 * [Semantic Web Approach to Mixing Rules, using RIF](https://github.com/djmoffat/RIFMixingRules)
