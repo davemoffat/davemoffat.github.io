@@ -2,7 +2,6 @@
 title: Digital Music Research Network 2019
 link: http://davemoffat.com/wp/index.php/2019/12/20/digital-music-research-network-2019/
 author: admin
-description: 
 post_id: 441
 created: 2019/12/20 17:06:07
 created_gmt: 2019/12/20 17:06:07
